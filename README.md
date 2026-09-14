@@ -11,7 +11,7 @@ A single-file, hand-crafted personal portfolio — no framework, no build step, 
 [![Responsive](https://img.shields.io/badge/Responsive-Mobile_First-2E8B57?style=for-the-badge)](#)
 [![Print Ready](https://img.shields.io/badge/Print--to--PDF-Resume_Mode-C89C50?style=for-the-badge)](#)
 
-**[✨ View Live Site](PASTE_YOUR_GITHUB_PAGES_LINK_HERE)**
+**[✨ View Live Site](https://github.com/theSemanticlink/My-Portfolio)**
 
 </div>
 
@@ -89,7 +89,6 @@ Then just open `index.html` in any browser — double-click it, or for live-relo
 - 📧 [sabihasaba2123@gmail.com](mailto:sabihasaba2123@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sabiha-ferdousisaba201891328)
 - 💻 [GitHub](https://github.com/theSemanticlink)
-- 📘 [Facebook](https://m.facebook.com/Sabiha.Ferdousi.4/)
 - ✕ [Twitter / X](https://x.com/SabihaC243462_)
 
 ---
