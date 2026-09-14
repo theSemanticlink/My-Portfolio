@@ -43,7 +43,7 @@ It belongs to **Sabiha Ferdousi** (Saba) — a Computer Science & Engineering st
 Hero (#top)      → Name, role kicker, portrait, primary CTA
 Work (#work)     → 4-card grid: AI/ML/GenAI, chatbots, full-stack site, Python foundations
 Story (#story)   → Bio, hobbies, quick facts — dark-mode contrast section
-R�sumé (#resume) → Skills list, academic results table, career timeline (incl. Excelerate internship)
+Resumé (#resume) → Skills list, academic results table, career timeline (incl. Excelerate internship)
 Contact (#contact) → Direct email + a styled inquiry form
 ```
 
